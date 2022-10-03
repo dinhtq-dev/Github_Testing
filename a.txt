@@ -1,2 +1,1 @@
-noi dung 123
-sua amend noi dung file A
+noi dung A
