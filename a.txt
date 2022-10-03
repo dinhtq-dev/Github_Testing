@@ -1,2 +1,2 @@
-noi dung qwe
+noi dung rebaseB
 sua amend noi dung file A
