@@ -1,2 +1,3 @@
-noi dung 123
+noi dung rebaseB
+noi dung qwe
 sua amend noi dung file A
